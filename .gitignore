@@ -3,7 +3,7 @@
 /bin/
 /target/
 
-.settings/*
+.settings/
 .project
 .classpath
 
