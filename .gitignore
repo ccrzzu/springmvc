@@ -3,6 +3,10 @@
 /bin/
 /target/
 
+.settings/
+.project
+.classpath
+
 # OS Files #
 .DS_Store
 
